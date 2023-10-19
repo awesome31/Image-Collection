@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "703782052720",
+    "project_id": "image-collection-9c136",
+    "storage_bucket": "image-collection-9c136.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703782052720:android:66091c2df955c2041865b5",
+        "android_client_info": {
+          "package_name": "com.imagecollection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUGUrEb4K52Nz3xHa8Jg1_L3-ByOsSAz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
