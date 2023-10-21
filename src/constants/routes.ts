@@ -1,0 +1,7 @@
+const ROUTES = {
+  LOGIN: 'LOGIN',
+  STORE_LIST: 'STORE_LIST',
+  STORE_DETAIL: 'STORE_DETAIL',
+};
+
+export default ROUTES;
